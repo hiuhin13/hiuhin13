@@ -1,63 +1,77 @@
-# 👋 Hi, I'm Le Hieu Hien
+# 👋 Hi, I'm Le Hieu
 
-🎓 I'm an Information Technology student  
-💻 Passionate about software development  
-🚀 Aspiring Backend Developer  
+🎓 Final-year Information Technology student  
+💻 Major: Software Engineering  
+📍 Vietnam  
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Major: Information Technology
-- 💡 Interested in Backend Development & Database Systems
-- 🛠 I have experience working on academic and personal projects
-- 📚 Currently improving my programming and problem-solving skills
+I am a final-year IT student with a strong interest in software development.  
+I have experience building web and mobile applications using Java, Flutter, and Front-end technologies.
+
+I enjoy learning new technologies and improving my problem-solving skills through real projects.
 
 ---
 
 ## 🛠 Technical Skills
 
 ### 💻 Programming Languages
-- C++
 - Java
-- Python (basic)
+- C++
+- JavaScript
+- Dart (Flutter)
+
+### 🌐 Web Development
+- HTML, CSS, Bootstrap
+- Basic JavaScript DOM manipulation
+
+### 📱 Mobile Development
+- Flutter (UI design, navigation, basic state management)
 
 ### 🗄 Database
 - MySQL
 - SQL Server (basic)
 
-### ⚙ Tools & Technologies
+### 🔧 Tools & Concepts
 - Git & GitHub
-- Dev C++
-- IntelliJ IDEA / VS Code
+- OOP (Object-Oriented Programming)
+- Basic understanding of RESTful API
+- Basic software testing (Test case, Black-box testing)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-### 🍽 Restaurant Management System (Java)
-- Built payment processing feature
-- Implemented CRUD operations
-- Managed order and invoice handling
+### ⚽ Football Field Management Website (Team Project)
+- Built using HTML, CSS, JavaScript
+- Developed management modules:
+  - Reviews & complaints management
+  - Advertisement management
+  - Revenue management
+  - System monitoring
+- Implemented UI design and handled front-end logic
 
-### 📊 Complaint & Advertisement Management (Group Project)
-- Managed complaint evaluation module
-- Developed advertisement management features
-- Applied CRUD operations with database integration
+### 📱 Cooking Recipe App (Personal Project)
+- Built with Flutter
+- Displayed recipe list and details
+- Implemented navigation between screens
+- Designed responsive UI using Flutter widgets
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Career Goal
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+To become a professional Software Developer, focusing on Backend Development with Java and improving my skills in modern frameworks and real-world software development processes.
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: (your-linkedin-if-any)
+- Email: yourmail@gmail.com
+- GitHub: https://github.com/yourusername
 
 ---
 
-⭐️ Thank you for visiting my profile!
+⭐ Always learning. Always improving.
