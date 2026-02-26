@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Le Hieu
+# 👋 Hi, I'm Le Hieu Hien
 
 🎓 Final-year Information Technology student  
 💻 Major: Software Engineering  
@@ -6,35 +6,33 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a final-year IT student with a strong interest in software development.  
 I have experience building web and mobile applications using Java, Flutter, and Front-end technologies.
-
 I enjoy learning new technologies and improving my problem-solving skills through real projects.
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 - Java
 - C++
 - JavaScript
 - Dart (Flutter)
 
-### 🌐 Web Development
+### Web Development
 - HTML, CSS, Bootstrap
-- Basic JavaScript DOM manipulation
 
-### 📱 Mobile Development
+### Mobile Development
 - Flutter (UI design, navigation, basic state management)
 
-### 🗄 Database
+### Database
 - MySQL
 - SQL Server (basic)
 
-### 🔧 Tools & Concepts
+### Tools & Concepts
 - Git & GitHub
 - OOP (Object-Oriented Programming)
 - Basic understanding of RESTful API
@@ -42,9 +40,9 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 
 ---
 
-## 📌 Projects
+## Projects
 
-### ⚽ Football Field Management Website (Team Project)
+### Football Field Management Website (Team Project)
 - Built using HTML, CSS, JavaScript
 - Developed management modules:
   - Reviews & complaints management
@@ -53,7 +51,7 @@ I enjoy learning new technologies and improving my problem-solving skills throug
   - System monitoring
 - Implemented UI design and handled front-end logic
 
-### 📱 Cooking Recipe App (Personal Project)
+### Cooking Recipe App (Personal Project)
 - Built with Flutter
 - Displayed recipe list and details
 - Implemented navigation between screens
@@ -61,16 +59,16 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 
 ---
 
-## 🎯 Career Goal
+## Career Goal
 
 To become a professional Software Developer, focusing on Backend Development with Java and improving my skills in modern frameworks and real-world software development processes.
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-- Email: yourmail@gmail.com
-- GitHub: https://github.com/yourusername
+- Email: lehieuhienqh@gmail.com
+- GitHub: https://github.com/hiuhin13
 
 ---
 
