@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Le Hieu
+# 👋 Hi, I'm Le Hieu Hien
 
 🎓 I'm an Information Technology student  
 💻 Passionate about software development  
